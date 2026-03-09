@@ -1,0 +1,1 @@
+Roadmap is a smart road safety system that uses multimodal AI to detect road hazards and analyze accident data. Users can upload images, audio, or video of road conditions, and the system identifies issues like potholes, cracks, waterlogging, and broken streetlights. It assigns severity levels and generates reports for authorities.
